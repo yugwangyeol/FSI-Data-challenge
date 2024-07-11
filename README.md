@@ -70,5 +70,5 @@
 
 ## 7. 발표 자료&참고 자료
 
-[2022 FSI Data Challenge 발표 자료]()  
+[2022 FSI Data Challenge 발표 자료](https://github.com/yugwangyeol/FSI-Data-challenge/blob/main/%EC%9A%A9%EB%AF%84%3B%EA%B8%88%EC%9C%B5%EC%9D%84%EB%92%A4%EC%A7%91%EC%96%B4%EB%86%93%EC%9C%BC%EC%85%A8%EB%8B%A4-2%EC%B0%A8%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)  
 
